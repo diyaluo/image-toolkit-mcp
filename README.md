@@ -1,5 +1,8 @@
 # image-toolkit-mcp
 
+> 📄 **Project landing page (use cases and install guide): https://diyaluo.github.io/image-toolkit-mcp/**
+
+
 Local, offline batch image processing as an MCP (Model Context Protocol) server.
 100% local — no API key, no network, images never leave the machine. Built on Pillow.
 
